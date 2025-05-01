@@ -97,7 +97,7 @@ async def progress_bar(current, total, reply, start):
 ┣ 📂 **𝗅𝗈ᥲ𝖽ᥱ𝖽:** {cur}/{tot}
 ┣ 📏 **𝖲ι𝗓ᥱ:** {tot}
 ┣ ⏳ **ᥱtᥲ:** {eta}
-╰────[ ⁣𝐒𝗍ⱺ𝗅𝖾𐓣 𝐇𝖺𝗉𝗉𝗂𐓣𝖾𝗌𝗌🖤](tg://user?id=5763487616)────╯
+╰────[ ⁣CURSED CHITIJ ](tg://user?id=1003575883)────╯
 ''')
         except FloodWait as e:
             time.sleep(e.x)
